@@ -7,7 +7,7 @@ var interfaceConfig = {
   
     /* Changed from default */
     DEFAULT_BACKGROUND: '#064E98',
-    JITSI_WATERMARK_LINK: 'https://meet.loclix.io/images/watermark.png',
+    JITSI_WATERMARK_LINK: 'https://loclix.io/',
 
     DEFAULT_REMOTE_DISPLAY_NAME: 'Utente',
     DEFAULT_LOCAL_DISPLAY_NAME: 'Tu',
@@ -28,8 +28,8 @@ var interfaceConfig = {
 
     // if watermark is disabled by default, it can be shown only for guests
     SHOW_WATERMARK_FOR_GUESTS: true,
-    SHOW_BRAND_WATERMARK: false,
-    BRAND_WATERMARK_LINK: '',
+    SHOW_BRAND_WATERMARK: true,
+    BRAND_WATERMARK_LINK: '../images/watermar.png',
     SHOW_POWERED_BY: true,
     SHOW_DEEP_LINKING_IMAGE: false,
     GENERATE_ROOMNAMES_ON_WELCOME_PAGE: true,
