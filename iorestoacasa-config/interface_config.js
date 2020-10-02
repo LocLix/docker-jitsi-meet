@@ -7,7 +7,7 @@ var interfaceConfig = {
   
     /* Changed from default */
     DEFAULT_BACKGROUND: '#064E98',
-    JITSI_WATERMARK_LINK: 'loclix.io',
+    JITSI_WATERMARK_LINK: 'https://meet.loclix.io/images/watermark.png',
 
     DEFAULT_REMOTE_DISPLAY_NAME: 'Utente',
     DEFAULT_LOCAL_DISPLAY_NAME: 'Tu',
