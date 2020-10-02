@@ -2,12 +2,12 @@
 
 var interfaceConfig = {
     /* Branding configuration */
-    APP_NAME: 'iorestoacasa.work',
-    PROVIDER_NAME: 'iorestoacasa.work',
+    APP_NAME: 'LocLix Meet',
+    PROVIDER_NAME: 'LocLix',
   
     /* Changed from default */
     DEFAULT_BACKGROUND: '#064E98',
-    JITSI_WATERMARK_LINK: 'iorestoacasa.work',
+    JITSI_WATERMARK_LINK: 'loclix.io',
 
     DEFAULT_REMOTE_DISPLAY_NAME: 'Utente',
     DEFAULT_LOCAL_DISPLAY_NAME: 'Tu',
