@@ -6,7 +6,7 @@ var interfaceConfig = {
     PROVIDER_NAME: 'LocLix',
   
     /* Changed from default */
-    DEFAULT_BACKGROUND: '#064E98',
+    DEFAULT_BACKGROUND: '#59278b',
     JITSI_WATERMARK_LINK: 'https://loclix.io/',
 
     DEFAULT_REMOTE_DISPLAY_NAME: 'Utente',
