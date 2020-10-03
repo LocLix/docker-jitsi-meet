@@ -1938,13 +1938,13 @@ button, form {
     height: 74px;
     background-size: contain;
     background-repeat: no-repeat;
-    z-index:2;
-    background-image: url(../images/watermark.png) !important
+    z-index:2
 }
 
 .leftwatermark {
     left: 32px;
     top: 32px;
+    background-image: url(../images/watermark.png) !important;
     background-position: center left;
     background-repeat: no-repeat;
     background-size:contain
