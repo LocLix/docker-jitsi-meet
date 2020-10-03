@@ -14,6 +14,7 @@ services:
             - ./iorestoacasa-config/config.js:/config/config.js
             - ./iorestoacasa-config/interface_config.js:/config/interface_config.js
             - ./iorestoacasa-config/watermark.png:/usr/share/jitsi-meet/images/watermark.png
+            - ./iorestoacasa-config/all.css:/usr/share/jitsi-meet/css/all.css
         restart: unless-stopped
         environment:
             - ENABLE_AUTH
